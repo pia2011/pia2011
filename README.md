@@ -24,12 +24,15 @@
   
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <br>
+
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pia2011)](https://solved.ac/pia2011/)
 </div>
+
 
 ![pia2011's github stats](https://github-readme-stats.vercel.app/api?username=pia2011&show_icons=true)
 ![pia2011's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pia2011&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pia2011)](https://solved.ac/pia2011/)
+
 <!--
 **pia2011/pia2011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
