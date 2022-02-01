@@ -1,4 +1,6 @@
-### Hi there 👋
+### 안녕하세요 호기심이 많은 개발자 김규성입니다 👋
+
+[🙋‍♂️about me](https://tree-shrine-d63.notion.site/d912816a43b74d46b27882c3dccfba8c)
 
 <!--
 **pia2011/pia2011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
