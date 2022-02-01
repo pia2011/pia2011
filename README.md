@@ -1,4 +1,3 @@
-### 안녕하세요 호기심이 많은 개발자 김규성입니다 👋
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20GyuSeongKim%20%20&height=200&fontSize=100)
 
 <!--
