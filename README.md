@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20GyuSeongKim%20%20&height=200&fontSize=100)
 
-<!--
-[🙋‍♂️about me](https://tree-shrine-d63.notion.site/d912816a43b74d46b27882c3dccfba8c)
--->
+
+[🙋‍♂️About Me](https://tree-shrine-d63.notion.site/Who-Am-I-d912816a43b74d46b27882c3dccfba8c)
+
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <div align=center> 
 
