@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20GyuSeongKim%20%20&height=200&fontSize=100)
 
-[🙋‍♂️About Me](https://tree-shrine-d63.notion.site/Who-Am-I-d912816a43b74d46b27882c3dccfba8c)
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pia2011)](https://solved.ac/pia2011/)
 
 [![Leetcode Stats](https://leetcode.card.workers.dev/?username=pia2011)](https://leetcode.com/pia2011)
