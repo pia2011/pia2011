@@ -1,9 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20GyuSeongKim%20%20&height=200&fontSize=100)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pia2011)](https://solved.ac/pia2011/)
-
-[![Leetcode Stats](https://leetcode.card.workers.dev/?username=pia2011)](https://leetcode.com/pia2011)
-
 ![pia2011's github stats](https://github-readme-stats.vercel.app/api?username=pia2011&show_icons=true)
 
 
