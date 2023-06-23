@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20GyuSeongKim%20%20&height=200&fontSize=100)
-
-![pia2011's github stats](https://github-readme-stats.vercel.app/api?username=pia2011&show_icons=true)
+e)
 
 
 <!--
