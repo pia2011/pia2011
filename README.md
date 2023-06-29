@@ -22,10 +22,14 @@
 
 --- 
 
+
 <div align="center">
-  <img src="http://mazassumnida.wtf/api/generate_badge?boj=pia2011" />
-  <a href="https://leetcode.com/pia2011">
-    <img src="https://leetcode.card.workers.dev/?username=pia2011" />
-  </a>
+  <div style="display: flex; justify-content: space-between; align-items: center;">
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj=pia2011" />
+    <a href="https://leetcode.com/pia2011">
+      <img src="https://leetcode.card.workers.dev/?username=pia2011" />
+    </a>
+  </div>
 </div>
+
 
