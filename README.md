@@ -1,17 +1,21 @@
-:)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=If%20not%20now,%20then%20when?&fontSize=50)
 
+<p align="center" style="font-weight: bold; font-family: 'Your Font Name', cursive;">
+  Curiosity-driven explorer, coding my way through infinite possibilities
+</p>
 
-<!--
-**pia2011/pia2011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="https://github-stats-alpha.vercel.app/api?username=BETTERFUTURE4">
+    <img src="https://github-stats-alpha.vercel.app/api?username=pia2011" />
+  </a>
+</div>
 
-Here are some ideas to get you started:
+--- 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=pia2011&theme=onedark&row=2&column=3" />
+  </a>
+  <img src="http://mazassumnida.wtf/api/generate_badge?boj=pia2011" />
+</div>
+
