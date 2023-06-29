@@ -1,7 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=If%20not%20now,%20then%20when?&fontSize=50)
 
-<p align="center" style="font-weight: bold; font-family: 'Your Font Name', cursive;">
-  Curiosity-driven explorer, coding my way through infinite possibilities
+<p align="center">
+  <strong>
+    Curiosity-driven explorer
+  </strong>, coding my way through infinite possibilities
 </p>
 
 <div align="center">
