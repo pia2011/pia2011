@@ -1,13 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=If%20not%20now,%20then%20when?&fontSize=50)
 
-<p align="center">
+<div align=center>
+  
   <strong>
     Curiosity-driven explorer
-  </strong>, coding my way through infinite possibilities
-</p>
+  </strong>
 
+  [![Resume Badge](http://img.shields.io/badge/-Portfolio-green?style=flat&logo=notion&logoColor=white)](https://tree-shrine-d63.notion.site/b12dd16474134d1ab92afa274b97f4a7?pvs=4)
 
-
+</div>
 
 <div align="center">
   <a href="https://github-stats-alpha.vercel.app/api?username=BETTERFUTURE4">
