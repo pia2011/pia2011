@@ -19,15 +19,3 @@
 </div>
 
 --- 
-
-
-<div align="center">
-  <div style="display: flex; justify-content: space-between; align-items: center;">
-    <img src="http://mazassumnida.wtf/api/generate_badge?boj=pia2011" />
-    <a href="https://leetcode.com/pia2011">
-      <img src="https://leetcode.card.workers.dev/?username=pia2011" />
-    </a>
-  </div>
-</div>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=pia2011&label=Profile%20views&color=0e75b6&style=flat" alt="uk960214" /> </p>
