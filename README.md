@@ -5,9 +5,6 @@
   <strong>
     Curiosity-driven explorer
   </strong>
-
-  [![Resume Badge](http://img.shields.io/badge/-Portfolio-green?style=flat&logo=notion&logoColor=white)](https://tree-shrine-d63.notion.site/b12dd16474134d1ab92afa274b97f4a7?pvs=4)
-
 </div>
 
 <div align="center">
