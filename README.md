@@ -1,3 +1,3 @@
 <p align="center">
-No doubts, move forward
+The best way to predict the future is to invent it
 </p>
